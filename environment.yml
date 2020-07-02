@@ -13,8 +13,6 @@ dependencies:
   - geopandas
   - holoviews
   - hvplot
-  - xarray-spatial
-  - geoviews
   - statsmodels
 prefix: /Users/ivanlizarazo/opt/miniconda3/envs/xesmf_env
 
